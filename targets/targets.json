@@ -1897,6 +1897,12 @@
         ],
         "device_name": "STM32F411RETx"
     },
+    "STM32F411_DISCOVERY": {
+    "inherits": [
+        "MCU_STM32F411xE"
+    ],
+    "device_name": "STM32F411VETx"
+    },
     "MTS_DRAGONFLY_F411RE": {
         "inherits": [
             "MCU_STM32F411xE"
