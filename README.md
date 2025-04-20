@@ -58,3 +58,5 @@ Please note that if you intend to use Mbed OS in a real product then you should 
 For example, Mbed OS executes [`mbed_die`](https://github.com/ARMmbed/mbed-os/blob/master/platform/source/mbed_board.c#L26) when there is an error. `mbed_die` by default halts the system. A production application should override weakly linked `mbed_die` function and provide own implementation suitable for their needs taking care of any security vulnerabilities and production considerations. 
 
 [eol-full-announcement]: https://os.mbed.com/blog/entry/Important-Update-on-Mbed/
+
+## This is my shortage custom for mbed-os since this is too large for the project
